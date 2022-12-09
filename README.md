@@ -47,13 +47,9 @@ Project 3 (final Project): The app is a `hotel bookings` app with variety of fea
 
 Some images representations:
 
-> <img src='./client/src/assets/TRAVÔTEL_fullpage.jpg' height=50% width=auto>
+<img width="700" alt="Screenshot 2022-12-07 at 7 32 30 PM" src="https://user-images.githubusercontent.com/108379616/206609001-e51adde6-7625-4004-b9b2-f469e7233379.png">
 
-> <img src='./client/src/assets/TRAVÔTEL_signup.png' height=50% width=auto >
-
-> <img src='./client/src/assets/TRAVÔTEL_rooms.jpg' height=50% width=auto>
-
-> <img src='./client/src/assets/TRAVÔTEL_AboutUs.jpg' height=50% width=auto>
+<img width="700" alt="Screenshot 2022-12-08 at 9 19 36 PM" src="https://user-images.githubusercontent.com/108379616/206609353-be8e43c1-8363-4b03-b0cc-9099aac7d073.png">
 
 ---
 
